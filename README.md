@@ -1,36 +1,110 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1 align="center">
+Hi 👋, I'm Chetan Kumar Sahu
+</h1>
 
-## Getting Started
+<h3 align="center">
+Backend Engineer • App Developer • Crazy Builder 🚀
+</h3>
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 👨‍💻 About Me
+
+- 💼 Software Engineer
+- 🎯 Want to handle and maintain complex large-scale systems and infrastructures. 
+- 📱 Exploring App Development
+- 🤖 Learning AI Engineering & Agentic Workflows
+- 🚀 Building **Balance**
+- 🌱 Currently learning
+  - System Design
+  - Distributed Systems
+  - Spring Boot
+  - PostgreSQL
+  - Docker
+  - Kubernetes
+- 🧠 Solving DSA daily
+- 📫 Reach me: **chetansahuwork@gmail.com**
+
+---
+
+## 🚀 Current Focus
+
+```text
+Building Products > Solving Problems > Sharing Knowledge
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Working towards
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+✅ Becoming Top 1% Backend Engineer
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+✅ Build My Own Tech Venture
 
-## Learn More
+✅ Open Source Contributions
 
-To learn more about Next.js, take a look at the following resources:
+✅ Technical Writing
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+✅ AI Engineering
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🛠️ Tech Stack
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Languages
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Java • Kotlin • JavaScript • TypeScript • SQL • PostgreSQL 
+
+### Backend
+
+Spring Boot • Node.js • Express • NestJs 
+
+### Mobile
+
+Android • Kotlin • Jetpack Compose • React Native • Expo
+
+### Database
+
+PostgreSQL • MySQL • MongoDB • Redis
+
+### DevOps
+
+Docker • Linux
+
+### Cloud
+
+Google Cloud
+
+---
+
+## 🚀 Featured Projects
+
+### 💸 Balance
+
+Splitwise reimagined with modern UI and powerful expense tracking.
+
+---
+
+### 🔗 EasyJMP
+
+Simple URL Shortener built with JavaScript.
+
+---
+
+### 🤖 AI Interviewer
+
+An AI-powered interview practice platform.
+
+---
+
+## 🌎 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/chetansahu25)
+
+[Portfolio](https;//chetansahu.vercel.app)
+
+[X](https://x.com/chetansahu25)
+
+[✉️Email](mailto:chetansahuwork@gmail.com)
+
+---
+
+> *"Consistency beats intensity."*
